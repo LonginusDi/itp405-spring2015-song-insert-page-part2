@@ -1,0 +1,16 @@
+/* 
+Name of design: Ten Ren's Tea Time
+Version: 1.0
+Author: Luna Lie (www.luisalie.com)
+Designed (Year): 2012
+Copyright status: All rights reserved
+*/
+
+
+form {
+	margin: auto;
+}
+
+form > div {
+	margin: 1em;
+}
